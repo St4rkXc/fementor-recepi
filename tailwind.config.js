@@ -10,7 +10,13 @@ module.exports = {
             fontSize :{
                 sm : "14px",
                 base : "16px",
+            },
+            colors: {
+                background: "#f3e5d8",
+                text : "#292929",
+                primary : "#864535"
             }
+            
         },
     },
     plugins: [],
